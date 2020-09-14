@@ -27,3 +27,4 @@ github:
   
 remote_theme : poole/hyde
 url: "https://jimin9401.github.io"
+baseurl: "" 
